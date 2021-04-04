@@ -1,0 +1,36 @@
+body{
+    background-color: darkolivegreen;
+    color:white;
+    font-family: sans-serif;
+    background-image: url("https://i.pinimg.com/originals/9e/c4/f6/9ec4f616862f2e15b39d615ff17881d8.jpg");
+    background-repeat:initial;
+    background-size: 100%;
+    font-size: 18pt;
+}
+h1,h2,h3{
+    text-align: center;
+}
+h1{
+    font-size: 32pt;
+    display: inline-block;
+}
+h2{
+    font-size: 24pt;
+}
+img.logo{
+    border-radius: 80px;
+    min-width: 10%;
+    max-height: 160px;
+    display: inline-block;
+    margin:auto;
+    float: left;
+}
+section.conteudo{
+    display: block;
+    max-width: 1000px;
+    margin:auto;
+    background-color: #000000a0;
+}
+p.sub{
+    text-align: center;
+}

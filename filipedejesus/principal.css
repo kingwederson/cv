@@ -1,7 +1,10 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
 body{
     background-color: darkolivegreen;
     color:white;
-    font-family: sans-serif;
+    font-family: 'Nunito', sans-serif;
+    font-weight:400;
     background-image: url("https://i.pinimg.com/originals/9e/c4/f6/9ec4f616862f2e15b39d615ff17881d8.jpg");
     background-repeat:initial;
     background-size: 100%;
@@ -40,4 +43,8 @@ p{
 p.sub{
     text-align: center;
     text-indent: 0px;
+}
+b{
+    font-weight: 900;
+    color:#aaf;
 }
